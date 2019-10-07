@@ -70,8 +70,8 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<nav class="navbar navbar-expand-lg">
-							<a class="navbar-brand" href="index.html">
-								<img src="assets/images/logo.png" alt="Logo">
+							<a class="navbar-brand" href="#">
+								<!-- <img src="assets/images/logo.png" alt="Logo"> -->
 							</a>
 
 							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTwo" aria-controls="navbarTwo" aria-expanded="false" aria-label="Toggle navigation">
@@ -94,9 +94,9 @@
 									<li class="nav-item">
 										<a class="page-scroll" href="#gallery">Galeri</a>
 									</li>
-									<li class="nav-item">
+									<!-- <li class="nav-item">
 										<a class="page-scroll" href="#pricing">Tiket</a>
-									</li>
+									</li> -->
 									<li class="nav-item">
 										<a class="page-scroll" href="#contact">Kontak</a>
 									</li>
@@ -147,9 +147,9 @@
 							<h2 class="title">Tasik Hacktoberfest</h2>
 						</div> <!-- section title -->
 
-						<p class="text mt-30">Komunitas <a href="https://tasikcode.xyz">TasikCode</a> akan mengadakan acara <a href="https://hacktoberfest.digitalocean.com">Hacktoberfest 2019</a> di Tasikmalaya, 
+						<p class="text mt-30">Komunitas <a href="https://tasikcode.xyz">TasikCode</a> akan mengadakan acara <a href="https://hacktoberfest.digitalocean.com">Hacktoberfest 2019</a> di Tasikmalaya,
 							sebuah selebrasi open source software yang diselenggarakan oleh DigitalOcean atas bekerja sama dengan tim dari Dev.to.
-							Di acara ini, kita akan bersama-sama belajar mengenai open source serta melakukan kontribusi langsung ke proyek open source 
+							Di acara ini, kita akan bersama-sama belajar mengenai open source serta melakukan kontribusi langsung ke proyek open source
 							yang kalian anggap menarik dan sharing dunia developer di kota Tasik dan Priangan Timur.</p>
 						<p class="date"><span>19<sup></sup></span> Oktober 2019</p>
 					</div> <!-- about content -->
@@ -171,8 +171,8 @@
 							<i class="lni-mic"></i>
 						</div>
 						<div class="counter-content">
-							<span class="count counter">45</span>
-							<p class="text">Expert Speaker</p>
+							<span class="count counter">4</span>
+							<p class="text">Speaker</p>
 						</div>
 					</div> <!-- single counter -->
 				</div>
@@ -182,8 +182,8 @@
 							<i class="lni-bulb"></i>
 						</div>
 						<div class="counter-content">
-							<span class="count counter">800</span>
-							<p class="text">Seats Available</p>
+							<span class="count counter">40</span>
+							<p class="text">Kursi Tersedia</p>
 						</div>
 					</div> <!-- single counter -->
 				</div>
@@ -193,8 +193,8 @@
 							<i class="lni-briefcase"></i>
 						</div>
 						<div class="counter-content">
-							<span class="count counter">29</span>
-							<p class="text">Sonsors</p>
+							<span class="count counter">100</span>
+							<p class="text">Project</p>
 						</div>
 					</div> <!-- single counter -->
 				</div>
@@ -204,8 +204,8 @@
 							<i class="lni-coffee-cup"></i>
 						</div>
 						<div class="counter-content">
-							<span class="count counter">56</span>
-							<p class="text">Sessions</p>
+							<span class="count counter">4</span>
+							<p class="text">Session</p>
 						</div>
 					</div> <!-- single counter -->
 				</div>
@@ -217,19 +217,18 @@
 
 	<!--====== EVENT SCHEDULE PART START ======-->
 
-	<section id="event" class="event-schedule pt-115 pb-130">
-		<div class="container" style="
-    background: #333; padding-bottom: 90px;
-">
+	<section id="event" class="event-schedule pt-115 pb-130" style="background-image: url(assets/images/Hacktoberfest_19_Events_2050x1025.png)">
+		<div class="container" style="background: #1d1d1d; padding-bottom: 90px; opacity: 0.8;">
 			<div class="row justify-content-center">
 				<div class="header-content text-center">
-					<h2 class="header-title">You are Using Free Lite Version of Eventify</h2>
-					<h3 class="sub-title">Please, purchase full version to get all sections, features and permission to remove credits</h3>
+					<h2 class="header-title">Tasik Hacktoberfest 2019</h2>
+					<h3 class="sub-title">Let's Support open source and join our community TasikCode</h3>
 
-					<ul class="header-btn">
-						<li><a class="main-btn main-btn-2" href="https://rebrand.ly/eventify-ud" rel="nofollow">Purchase Now</a></li>
-						<li><a class="main-btn" href="https://rebrand.ly/eventify-ud" rel="nofollow">Learn More</a></li>
-					</ul>
+					<hr>
+					<h3 class="sub-title">
+						Sabtu, 19 Oktober 2019 </h3>
+					<h2 class="header-title">Dapur Mimih</h2>
+					<h4 class="sub-title">Jalan Gunung Sari No.13, Tawang, Kota Tasikmalaya</h4>
 				</div> <!-- header content -->
 			</div> <!-- row -->
 		</div> <!-- container -->
@@ -244,8 +243,8 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-8">
 					<div class="section-title text-center pb-20">
-						<h2 class="title">Why You Should Join?</h2>
-						<p class="text">Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent mediocritatem reiciendis odit sed, vero amet blanditiis cule dicta iriure at phaedrum.</p>
+						<h2 class="title">Mengapa Harus Hadir ?</h2>
+						<p class="text">Acara ini diselenggarakan di seluruh dunia secara serentak selama bulan Oktober ini, untuk memeriahkannya yuk kita manfaatkan momen ini untuk berkumpul sesama developer .</p>
 					</div> <!-- section title -->
 				</div>
 			</div> <!-- row -->
@@ -257,8 +256,8 @@
 							<span>01</span>
 						</div>
 						<div class="features-content">
-							<h4 class="features-title"><a href="#">Great Speakers</a></h4>
-							<p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+							<h4 class="features-title"><a href="#">Kumpul Developer</a></h4>
+							<p class="text">Kumpulnya para penggiat, pengembang aplikasi baik desktop, website maupun mobile .</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
@@ -269,8 +268,8 @@
 							<span>02</span>
 						</div>
 						<div class="features-content">
-							<h4 class="features-title"><a href="#">New People</a></h4>
-							<p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+							<h4 class="features-title"><a href="#">Orang Baru</a></h4>
+							<p class="text">Bertemu dengan orang baru, berbagi pengalaman baik dunia develoepr maupun di dunia non teknis.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
@@ -282,7 +281,7 @@
 						</div>
 						<div class="features-content">
 							<h4 class="features-title"><a href="#">Global Event</a></h4>
-							<p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+							<p class="text">Acara ini diselenggarakan di seluruh dunia serentak selama bulan oktober untuk menggiatkan dunia open source.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
@@ -293,8 +292,8 @@
 							<span>04</span>
 						</div>
 						<div class="features-content">
-							<h4 class="features-title"><a href="#">Get Inspired</a></h4>
-							<p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+							<h4 class="features-title"><a href="#">Terinspirasi</a></h4>
+							<p class="text">Saling menginspirasi, kolaborasi untuk membuat kualitas developer menjadi lebih baik. </p>
 						</div>
 					</div> <!-- single features -->
 				</div>
@@ -305,8 +304,8 @@
 							<span>05</span>
 						</div>
 						<div class="features-content">
-							<h4 class="features-title"><a href="#">Networking Session</a></h4>
-							<p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+							<h4 class="features-title"><a href="#">Sesi Networking</a></h4>
+							<p class="text">Temukan rekan bisnis maupun rekan developer untuk bisa kerja sama di masa yang akan datang.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
@@ -317,8 +316,8 @@
 							<span>06</span>
 						</div>
 						<div class="features-content">
-							<h4 class="features-title"><a href="#">Meet New Faces</a></h4>
-							<p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+							<h4 class="features-title"><a href="#">Tatap Muka</a></h4>
+							<p class="text">Developer pun perlu untuk bersosialisasi, agar lebih cakap dalam berkomunikasi di dunia nyata.</p>
 						</div>
 					</div> <!-- single features -->
 				</div>
@@ -329,114 +328,273 @@
 	<!--====== FEATURES PART ENDS ======-->
 
 	<!--====== TEAM PART START ======-->
-
-	<div class="container" style="
-    background: #333; padding-bottom: 90px;
-">
-		<div class="row justify-content-center">
-			<div class="header-content text-center">
-				<h2 class="header-title">You are Using Free Lite Version of Eventify</h2>
-				<h3 class="sub-title">Please, purchase full version to get all sections, features and permission to remove credits</h3>
-
-				<ul class="header-btn">
-					<li><a class="main-btn main-btn-2" href="https://rebrand.ly/eventify-ud" rel="nofollow">Purchase Now</a></li>
-					<li><a class="main-btn" href="https://rebrand.ly/eventify-ud" rel="nofollow">Learn More</a></li>
-				</ul>
-			</div> <!-- header content -->
-		</div> <!-- row -->
-	</div> <!-- container -->
-	<!--====== GALLERY PART ENDS ======-->
-
-	<!--====== PRICING PART START ======-->
-
-	<section id="pricing" class="pricing-area pt-115 pb-200">
+	<section id="team" class="team-area pt-115 pb-130">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-8">
 					<div class="section-title text-center pb-20">
-						<h2 class="title">Ticket Pricing</h2>
-						<p class="text">Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent mediocritatem reiciendis odit sed, vero amet blanditiis cule dicta iriure at phaedrum.</p>
-					</div> <!-- section title -->
+						<h2 class="title">Partisipan</h2>
+						<p class="text">Developer Tasikmalaya yang siap diajak berkolaborasi dan berkontribusi.</p>
+					</div>
 				</div>
-			</div> <!-- row -->
-			<div class="row justify-content-center">
-				<div class="col-lg-4 col-md-8 col-sm-9">
-					<div class="single-pricing text-center mt-30 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0s">
-						<div class="pricing-name">
-							<h4 class="pricing-title">BASIC PASS</h4>
-							<span class="sub-title">Price Excluding 20% VAT</span>
+			</div>
+			<div class="row">
+				<div class="col-lg-4 col-sm-6">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeIn;">
+						<div class="team-image">
+							<img src="assets/images/team-1.jpg" alt="Team">
 						</div>
-						<div class="pricing-price">
-							<span>$ 29.00</span>
-							<p class="text">Per Day</p>
+						<div class="team-content">
+							<div class="team-social">
+								<ul class="social">
+									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
+									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
+									<li><a href="#"><i class="lni-pinterest"></i></a></li>
+								</ul>
+							</div>
+							<h4 class="team-name"><a href="#">Dagus Wijaya</a></h4>
+							<span class="sub-title">Web Developer</span>
 						</div>
-						<div class="pricing-list">
-							<ul>
-								<li>Pro Regular Seating</li>
-								<li>Best Comfortable Seat</li>
-								<li>Coffee Break With Snacks</li>
-								<li>One Workshop For Practise</li>
-								<li>Course Certificate</li>
-							</ul>
-						</div>
-						<div class="pricing-btn">
-							<a class="main-btn" href="#">Buy Ticket</a>
-						</div>
-					</div> <!-- single pricing -->
+					</div>
 				</div>
-				<div class="col-lg-4 col-md-8 col-sm-9">
-					<div class="single-pricing active text-center mt-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s">
-						<div class="pricing-name">
-							<h4 class="pricing-title">STANDARD PASS</h4>
-							<span class="sub-title">Price Excluding 20% VAT</span>
+				<div class="col-lg-4 col-sm-6">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
+						<div class="team-image">
+							<img src="assets/images/team-2.jpg" alt="Team">
 						</div>
-						<div class="pricing-price">
-							<span>$ 39.00</span>
-							<p class="text">Per Day</p>
+						<div class="team-content">
+							<div class="team-social">
+								<ul class="social">
+									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
+									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
+									<li><a href="#"><i class="lni-pinterest"></i></a></li>
+								</ul>
+							</div>
+							<h4 class="team-name"><a href="#">Dony P</a></h4>
+							<span class="sub-title">Web Developer</span>
 						</div>
-						<div class="pricing-list">
-							<ul>
-								<li>Pro Regular Seating</li>
-								<li>Best Comfortable Seat</li>
-								<li>Coffee Break With Snacks</li>
-								<li>One Workshop For Practise</li>
-								<li>Course Certificate</li>
-							</ul>
-						</div>
-						<div class="pricing-btn">
-							<a class="main-btn main-btn-2" href="#">Buy Ticket</a>
-						</div>
-					</div> <!-- single pricing -->
+					</div>
 				</div>
-				<div class="col-lg-4 col-md-8 col-sm-9">
-					<div class="single-pricing text-center mt-30 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0s">
-						<div class="pricing-name">
-							<h4 class="pricing-title">PREMIUM PASS</h4>
-							<span class="sub-title">Price Excluding 20% VAT</span>
+				<div class="col-lg-4 col-sm-6">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
+						<div class="team-image">
+							<img src="assets/images/team-3.jpg" alt="Team">
 						</div>
-						<div class="pricing-price">
-							<span>$ 49.00</span>
-							<p class="text">Per Day</p>
+						<div class="team-content">
+							<div class="team-social">
+								<ul class="social">
+									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
+									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
+									<li><a href="#"><i class="lni-pinterest"></i></a></li>
+								</ul>
+							</div>
+							<h4 class="team-name"><a href="#">Ahmad Lumanul Hakim</a></h4>
+							<span class="sub-title">UI/UX Speacilist</span>
 						</div>
-						<div class="pricing-list">
-							<ul>
-								<li>Pro Regular Seating</li>
-								<li>Best Comfortable Seat</li>
-								<li>Coffee Break With Snacks</li>
-								<li>One Workshop For Practise</li>
-								<li>Course Certificate</li>
-							</ul>
-						</div>
-						<div class="pricing-btn">
-							<a class="main-btn" href="#">Buy Ticket</a>
-						</div>
-					</div> <!-- single pricing -->
+					</div>
 				</div>
-			</div> <!-- row -->
-		</div> <!-- container -->
+				<div class="col-lg-4 col-sm-6">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
+						<div class="team-image">
+							<img src="assets/images/team-4.jpg" alt="Team">
+						</div>
+						<div class="team-content">
+							<div class="team-social">
+								<ul class="social">
+									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
+									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
+									<li><a href="#"><i class="lni-pinterest"></i></a></li>
+								</ul>
+							</div>
+							<h4 class="team-name"><a href="#">Triza M.I</a></h4>
+							<span class="sub-title">CEO Braderly</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
+						<div class="team-image">
+							<img src="assets/images/team-5.jpg" alt="Team">
+						</div>
+						<div class="team-content">
+							<div class="team-social">
+								<ul class="social">
+									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
+									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
+									<li><a href="#"><i class="lni-pinterest"></i></a></li>
+								</ul>
+							</div>
+							<h4 class="team-name"><a href="#">M Reza Maulana</a></h4>
+							<span class="sub-title">CEO NeoSantara</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.5s; animation-name: fadeIn;">
+						<div class="team-image">
+							<img src="assets/images/team-6.jpg" alt="Team">
+						</div>
+						<div class="team-content">
+							<div class="team-social">
+								<ul class="social">
+									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
+									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
+									<li><a href="#"><i class="lni-pinterest"></i></a></li>
+								</ul>
+							</div>
+							<h4 class="team-name"><a href="#">Hedi Herdiana</a></h4>
+							<span class="sub-title">Content Creator</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeIn;">
+						<div class="team-image">
+							<img src="assets/images/team-4.jpg" alt="Team">
+						</div>
+						<div class="team-content">
+							<div class="team-social">
+								<ul class="social">
+									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
+									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
+									<li><a href="#"><i class="lni-pinterest"></i></a></li>
+								</ul>
+							</div>
+							<h4 class="team-name"><a href="#">Rozul Imam</a></h4>
+							<span class="sub-title">Senior Developer</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 1s; animation-name: fadeIn;">
+						<div class="team-image">
+							<img src="assets/images/team-5.jpg" alt="Team">
+						</div>
+						<div class="team-content">
+							<div class="team-social">
+								<ul class="social">
+									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
+									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
+									<li><a href="#"><i class="lni-pinterest"></i></a></li>
+								</ul>
+							</div>
+							<h4 class="team-name"><a href="#">Yukihiro Matsumoto</a></h4>
+							<span class="sub-title"> - </span>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6">
+					<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="1.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 1.5s; animation-name: fadeIn;">
+						<div class="team-image">
+							<img src="https://en.wikipedia.org/wiki/Larry_Wall#/media/File:Larry_Wall_YAPC_2007.jpg" alt="Team">
+						</div>
+						<div class="team-content">
+							<div class="team-social">
+								<ul class="social">
+									<li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+									<li><a href="#"><i class="lni-twitter-original"></i></a></li>
+									<li><a href="#"><i class="lni-linkedin-original"></i></a></li>
+									<li><a href="#"><i class="lni-pinterest"></i></a></li>
+								</ul>
+							</div>
+							<h4 class="team-name"><a href="#">Larry Wall</a></h4>
+							<span class="sub-title"> - </span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 	</section>
 
-	<!--====== PRICING PART ENDS ======-->
+	<!--====== GALLERY PART START ======-->
+	<section id="gallery" class="event-gallery pt-115 pb-130 gray-bg">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-8">
+					<div class="section-title text-center pb-50">
+						<h2 class="title">Galeri</h2>
+						<p class="text">Tasik Hacktoberfest 2019</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- <div class="row no-gutters">
+			<div class="col-lg-6">
+				<div class="single-gallery">
+					<div class="gallery-image">
+						<img src="assets/images/gallery-1.jpg" alt="Gallery">
+					</div>
+					<div class="gallery-content">
+						<a class="image-popup" href="assets/images/gallery-1.jpg"><i class="lni-plus"></i></a>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6">
+				<div class="row no-gutters">
+					<div class="col-sm-6">
+						<div class="single-gallery">
+							<div class="gallery-image">
+								<img src="assets/images/gallery-2.jpg" alt="Gallery">
+							</div>
+							<div class="gallery-content">
+								<a class="image-popup" href="assets/images/gallery-2.jpg"><i class="lni-plus"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="single-gallery">
+							<div class="gallery-image">
+								<img src="assets/images/gallery-3.jpg" alt="Gallery">
+							</div>
+							<div class="gallery-content">
+								<a class="image-popup" href="assets/images/gallery-3.jpg"><i class="lni-plus"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="single-gallery">
+							<div class="gallery-image">
+								<img src="assets/images/gallery-4.jpg" alt="Gallery">
+							</div>
+							<div class="gallery-content">
+								<a class="image-popup" href="assets/images/gallery-4.jpg"><i class="lni-plus"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="single-gallery">
+							<div class="gallery-image">
+								<img src="assets/images/gallery-5.jpg" alt="Gallery">
+							</div>
+							<div class="gallery-content">
+								<a class="image-popup" href="assets/images/gallery-5.jpg"><i class="lni-plus"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div> -->
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="gallery-btn pt-60 text-center">
+						<a class="main-btn main-btn-2" href="#">Segera !</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--====== GALLERY PART ENDS ======-->
+
+
 
 	<!--====== CLIENT PART START ======-->
 
@@ -453,7 +611,8 @@
 			<div class="row client-active">
 				<div class="col-lg-3">
 					<div class="single-client">
-						<img src="assets/images/client-1.png" alt="Client">
+						<!-- <img src="assets/images/client-1.png" alt="Client"> -->
+						<img src="https://www.qries.com/images/banner_logo.png" alt="Qries" width="200" height="90">
 					</div> <!-- single client -->
 				</div>
 				<div class="col-lg-3">
@@ -591,7 +750,8 @@
 	<!--====== FOOTER PART START ======-->
 
 	<section id="footer" class="footer-area bg_cover" style="background-image: url(assets/images/footer.jpg)">
-		<div class="footer-subscribe-area pt-120 pb-130">
+
+		<!-- <div class="footer-subscribe-area pt-120 pb-130">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-lg-8">
@@ -603,11 +763,11 @@
 									<button class="main-btn">Subscribe Now</button>
 								</form>
 							</div>
-						</div> <!-- footer subscribe -->
+						</div> 
 					</div>
-				</div> <!-- row -->
-			</div> <!-- container -->
-		</div> <!-- footer subscribe -->
+				</div> 
+			</div> 
+		</div>  -->
 
 		<div class="footer-widget">
 			<div class="container">
@@ -615,7 +775,7 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<div class="footer-address mt-40">
-								<h5 class="f-title">Venue Location</h5>
+								<h5 class="f-title">Lokasi Acara</h5>
 								<p class="text">18 - 21 DECEMBER, 2022 <br> 51 Francis Street, Cesare Rosaroll, 118 80139 Eventine</p>
 								<a class="contact-link" href="#">Contact Our Authority</a>
 							</div> <!-- footer address -->
@@ -642,7 +802,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="copyright text-center">
-							<p class="text">Made with from Tasikmalaya, INDONESIA</p>
+							<p class="text">© 2019 Tasik Hacktoberfest 2019</p>
 						</div> <!-- copyright -->
 					</div>
 				</div> <!-- row -->
