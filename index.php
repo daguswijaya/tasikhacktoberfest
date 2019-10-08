@@ -104,7 +104,7 @@
 							</div>
 
 							<div class="navbar-btn d-none d-sm-inline-block">
-								<a class="main-btn" href="https://www.loket.com/event/tasikhacktoberfest2019">Dapatkan Tiket</a>
+								<a class="main-btn" href="https://www.eventbrite.com/e/hacktober-fest-tasikmalaya-2019-tickets-75802682865">Dapatkan Tiket</a>
 							</div>
 						</nav> <!-- navbar -->
 					</div>
@@ -598,7 +598,7 @@
 
 	<!--====== CLIENT PART START ======-->
 
-	<div id="client" class="client-area pt-115 pb-130 gray-bg">
+	<div id="client" class="client-area pt-115 pb-130 gray-bg" style="display: none">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-8">
