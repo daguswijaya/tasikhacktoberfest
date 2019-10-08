@@ -151,7 +151,7 @@
 							sebuah selebrasi open source software yang diselenggarakan oleh DigitalOcean atas bekerja sama dengan tim dari Dev.to.
 							Di acara ini, kita akan bersama-sama belajar mengenai open source serta melakukan kontribusi langsung ke proyek open source
 							yang kalian anggap menarik dan sharing dunia developer di kota Tasik dan Priangan Timur.</p>
-							<p>Info tentang apa itu Hacktober Fest 2019 bisa <a href="https://hacktoberfest.digitalocean.com">Lihat disini.</a></p>
+							<h5>Info tentang apa itu Hacktober Fest 2019 bisa <a href="https://hacktoberfest.digitalocean.com">Lihat disini.</a></h5><br>
 						<p class="date"><span>19<sup></sup></span> Oktober 2019</p>
 					</div> <!-- about content -->
 				</div>
